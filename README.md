@@ -23,16 +23,16 @@
 > <img width="707" alt="Exp-11" src="https://user-images.githubusercontent.com/113248863/214636044-989413b5-5bfa-496c-bfb9-488b79d47ae4.png"><br/>
 ## Exp-12 : CLASS DIAGRAM for library management system<br/>
 > <img width="703" alt="Exp-10" src="https://user-images.githubusercontent.com/113248863/214635724-fe7cb31d-baaf-45c1-8626-9fa3fac88e1e.png"><br/>
-## Exp-13 : 
->
-## Exp-14 : 
->
-## Exp-15 : 
->
-## Exp-16 : 
->
-## Exp-17 : 
->
+## Exp-13 : ACTIVITY DIAGRAM for online voting system<br/>
+> <img width="692" alt="Exp-13" src="https://user-images.githubusercontent.com/113248863/214636920-0513573d-b177-4863-a190-eb000141aae9.png"><br/>
+## Exp-14 : ACTIVITY DIAGRAM for library management system<br/>
+> <img width="705" alt="Exp-14" src="https://user-images.githubusercontent.com/113248863/214637167-9f53c2b2-132f-4a0c-b3ae-9072d5fd26b9.png"><br/>
+## Exp-15 : ACTIVITY DIAGRAM for online shopping system<br/>
+> <img width="685" alt="Exp-15" src="https://user-images.githubusercontent.com/113248863/214637593-32e41775-706d-4da4-9107-da599c6ebca6.png"><br/>
+## Exp-16 : ACTIVITY DIAGRAM for online railway reservation system<br/>
+> <img width="693" alt="Exp-16" src="https://user-images.githubusercontent.com/113248863/214637849-1782daad-69c3-47c0-a279-c99150a0b8c6.png"><br/>
+## Exp-17 : ACTIVITY DIAGRAM for hospital management system<br/>
+> <img width="678" alt="Exp-17" src="https://user-images.githubusercontent.com/113248863/214638076-c690a91e-3012-4a27-a947-a000da219212.png"><br/>
 ## Exp-18 : 
 >
 ## Exp-19 : 
