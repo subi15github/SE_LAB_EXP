@@ -39,6 +39,10 @@
 > <img width="825" alt="Exp-19" src="https://user-images.githubusercontent.com/113248863/215338442-94600972-d86a-4238-890c-29e7b37484c2.png"><br/>
 ## Exp-20 : FLOWCHART to count the number of characters in a string<br/>
 > <img width="834" alt="Exp-20" src="https://user-images.githubusercontent.com/113248863/215338520-befd7e89-eebb-42ad-937d-7878c00abeec.png"><br/>
-## Exp-21 : 
->
+## Exp-21 : FLOWCHART to check prime numbers<br/>
+> <img width="831" alt="Exp-21" src="https://user-images.githubusercontent.com/113248863/215339452-df8c8af4-301a-49a3-bc19-8d5e1b847e11.png"><br/>
+## Exp-22 : FLOWCHART to calculate Cyclomatic Complexity<br/>
+> <img width="827" alt="Exp-22" src="https://user-images.githubusercontent.com/113248863/215339633-df00b0a2-1eb4-475b-8ca9-eccaaa93964e.png"><br/>
+
+
 
