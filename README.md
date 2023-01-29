@@ -33,12 +33,12 @@
 > <img width="693" alt="Exp-16" src="https://user-images.githubusercontent.com/113248863/214637849-1782daad-69c3-47c0-a279-c99150a0b8c6.png"><br/>
 ## Exp-17 : ACTIVITY DIAGRAM for hospital management system<br/>
 > <img width="678" alt="Exp-17" src="https://user-images.githubusercontent.com/113248863/214638076-c690a91e-3012-4a27-a947-a000da219212.png"><br/>
-## Exp-18 : 
->
-## Exp-19 : 
->
-## Exp-20 : 
->
+## Exp-18 : FLOWCHART to reverse a number<br/>
+> <img width="830" alt="Exp-18" src="https://user-images.githubusercontent.com/113248863/215337717-dbef588a-f4c6-47d0-9aa0-2be791ddd98a.png"><br/>
+## Exp-19 : FLOWCHART to interchange two characters of a string<br/>
+> <img width="825" alt="Exp-19" src="https://user-images.githubusercontent.com/113248863/215338442-94600972-d86a-4238-890c-29e7b37484c2.png"><br/>
+## Exp-20 : FLOWCHART to count the number of characters in a string<br/>
+> <img width="834" alt="Exp-20" src="https://user-images.githubusercontent.com/113248863/215338520-befd7e89-eebb-42ad-937d-7878c00abeec.png"><br/>
 ## Exp-21 : 
 >
 
