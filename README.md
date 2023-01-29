@@ -3,8 +3,8 @@
 > <img width="675" alt="Exp-1" src="https://user-images.githubusercontent.com/113248863/214631617-a0e95100-c640-4f90-9c99-d6f04fc11ec8.png"><br/>
 ## Exp-2 : USECASE DIAGRAM for Library Management System<br/>
 > <img width="703" alt="Exp-2" src="https://user-images.githubusercontent.com/113248863/214632659-fcea84b0-d968-4a01-8794-292d90d0b039.png"><br/>
-## Exp-3 : 
->
+## Exp-3 : FLOWCHART for calculating quotient and remainder of two numbers.<br/>
+> <img width="844" alt="Exp-3" src="https://user-images.githubusercontent.com/113248863/215337369-1b6f312a-ecb8-4129-9a95-4887ad8a560f.png"><br/>
 ## Exp-4 : USECASE DIAGRAM shopping cart system<br/>
 > <img width="705" alt="Exp-4" src="https://user-images.githubusercontent.com/113248863/214633702-d2ce629f-5c78-446f-82dd-feee771ab2e6.png"><br/>
 ## Exp-5 : USECASE DIAGRAM for railway reservation system<br/>
