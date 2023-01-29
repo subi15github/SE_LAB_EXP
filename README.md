@@ -43,6 +43,51 @@
 > <img width="831" alt="Exp-21" src="https://user-images.githubusercontent.com/113248863/215339452-df8c8af4-301a-49a3-bc19-8d5e1b847e11.png"><br/>
 ## Exp-22 : FLOWCHART to calculate Cyclomatic Complexity<br/>
 > <img width="827" alt="Exp-22" src="https://user-images.githubusercontent.com/113248863/215339633-df00b0a2-1eb4-475b-8ca9-eccaaa93964e.png"><br/>
+## Exp-23 : ACTIVITY DIAGRAM for an automated online banking system<br/>
+> <img width="702" alt="Exp-23" src="https://user-images.githubusercontent.com/113248863/215348340-c31df6b3-74a7-4e48-82bc-b15042ea65f0.png"><br/>
+## Exp-24 : ACTIVITY DIAGRAM for an e-library online public access catalogue<br/>
+> <img width="696" alt="Exp-24" src="https://user-images.githubusercontent.com/113248863/215348413-ec37f37b-a542-44f1-9e9f-a60c91b9d5cf.png"><br/>
+## Exp-25 : CLASS DIAGRAM for an e-library online public access catalogue<br/>
+> <img width="706" alt="Exp-25" src="https://user-images.githubusercontent.com/113248863/215348459-fbda3431-e7c4-4110-9004-e1d52c1f7ab0.png"><br/>
+## Exp-26 : USECASE DIAGRAMSfor a Restaurant Systems<br/>
+> <img width="703" alt="Exp-26" src="https://user-images.githubusercontent.com/113248863/215348539-cbb66871-9802-4843-845c-796b678f560f.png"><br/>
+## Exp-27 : CLASS DIAGRAM for a Restaurant Systems<br/>
+> <img width="695" alt="Exp-27" src="https://user-images.githubusercontent.com/113248863/215348590-ec3f3137-219f-44bf-aa0f-ea10645935da.png"><br/>
+
+
+## Exp-28 : <br/>
+> <br/>
+
+## Exp-29 : <br/>
+> <br/>
+
+
+
+## Exp-30 : FLOWCHART to calculate factorial of a number<br/>
+> <img width="822" alt="Exp-30" src="https://user-images.githubusercontent.com/113248863/215348719-d58fc5be-af90-4bad-8f13-e11f27b589d2.png"><br/>
+## Exp-31 : FLOWCHART to find odd and even series of the given number<br/>
+> <img width="811" alt="Exp-31" src="https://user-images.githubusercontent.com/113248863/215348893-2f7fd23e-a8fb-4c21-8cda-f344afb81a50.png"><br/>
+## Exp-32 : FLOWCHART to reverse a string <br/>
+><img width="811" alt="Exp-32" src="https://user-images.githubusercontent.com/113248863/215348968-d4f1912e-a3a2-430b-b6a0-d483bf409002.png"><br/>
+## Exp-33 : FLOWCHART to find n if the sum of first n natural number is 325<br/>
+> <img width="815" alt="Exp-33" src="https://user-images.githubusercontent.com/113248863/215349126-c74c8048-9dc0-40cd-a860-2d99b4131b93.png"><br/>
+## Exp-34 : FLOWCHART to find largest of n numbers<br/>
+> <img width="805" alt="Exp-34" src="https://user-images.githubusercontent.com/113248863/215349243-6fbe0ccf-f4b8-49c0-84b4-7868f013dd04.png"><br/>
+## Exp-35 : FLOWCHART to generate fibonacci series<br/>
+> <img width="841" alt="Exp-35" src="https://user-images.githubusercontent.com/113248863/215349397-c40dd29e-1df1-4c58-b709-4b0553aea67b.png"><br/>
+
+## Exp-36 : <br/>
+> <br/>
+## Exp-37 : <br/>
+> <br/>
+## Exp-38 : <br/>
+> <br/>
+## Exp-39 : <br/>
+> <br/>
+## Exp-40 : <br/>
+> <br/>
+
+
 
 
 
