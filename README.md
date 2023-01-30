@@ -85,7 +85,8 @@
 ## Exp-39 : <br/>
 > <br/>
 ## Exp-40 : FLOWCHART to check string is palindrome<br/>
-> <br/>
+> <img width="821" alt="Exp-40" src="https://user-images.githubusercontent.com/113248863/215551667-f6f6aa9b-d668-44ae-89db-e9233118bff1.png"><br/>
+
 
 
 
